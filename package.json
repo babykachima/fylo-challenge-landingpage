@@ -1,0 +1,15 @@
+{
+  "name": "landlingpage-speshadowfy",
+  "version": "1.0.0",
+  "description": "the project introduction related to app",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/styles.css -o ./public/output.css --watch"
+  },
+  "keywords": [],
+  "author": "babykachima",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
