@@ -13,3 +13,20 @@
     background-color: hsl(218, 28%, 13%);
   }
 }
+/* ct = custom */
+.ct-menu-text-li {
+  @apply relative after:absolute after:w-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-white after:transition-all after:ease-in-out after:duration-300 hover:after:w-full;
+}
+.ct-menu-text-a {
+  @apply capitalize text-white-color hover:font-bold;
+}
+
+.ct-footer-text {
+  @apply cursor-pointer text-white-color hover:font-bold;
+}
+.ct-image {
+  @apply w-[32px] h-[32px];
+}
+.ct-see-how-fylo-work {
+  @apply relative flex items-center justify-between gap-2 after:absolute after:bottom-0 after:left-0 after:transition-all after:ease-in-out after:duration-300 after:w-0 after:h-0.5 after:bg-cyan-color hover:after:w-full;
+}
