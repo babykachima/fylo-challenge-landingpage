@@ -19,9 +19,6 @@ module.exports = {
         "background-dark-blue-footer": "hsl(216, 53%, 9%)",
         "background-dark-blue-testimonials": "hsl(219, 30%, 18%)",
       },
-      backgroundImage: {
-        mountain: "url('./public/images/bg-curvy-mobile.svg')",
-      },
     },
   },
   plugins: [],
