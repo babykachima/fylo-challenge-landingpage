@@ -4,7 +4,7 @@ On other hand, repo also the challges of front-end master.
 🎯 Feature:
 + Responsive website
 + Simple verify email
-+ some animation CSS
++ Some animation CSS
 
 Run repo:
 
