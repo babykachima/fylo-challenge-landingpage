@@ -1,5 +1,4 @@
-🔥 The project is landingpage that product when I practice TailwindCSS.
-On other hand, repo also the challges of front-end master.
+🔥 The project is a landing page that I produce when I practice TailwindCSS. On the other hand, repo also has the challenges of front-end mentors.
 
 🎯 Feature:
 + Responsive website
