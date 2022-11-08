@@ -9,7 +9,7 @@ Run repo:
 
 1. When you download or clone repo, then -> Open project on VSCode -> Install Live Server extension.
 
-2. Run yarn build:css first due to run CSS, next Run file index.html in (public/index.html) by Live Server.
+2. Run yarn build:css first to run CSS, next Run file index.html in (public/index.html) by Live Server.
 
 🚀 Link deploy: https://babykachima-fylo-landingpage.web.app/
 
